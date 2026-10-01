@@ -1,0 +1,42 @@
+{
+  "user": "user",
+  "current working directory": "C:\\Users\\user\\Desktop\\лаюораторные С\\PythonApplication1\\PythonApplication1",
+  "OC, node, release, version, machine": [
+    "Windows",
+    "DESKTOP-VG2UACC",
+    "10",
+    "10.0.26200",
+    "AMD64",
+    "AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD"
+  ],
+  "processor": "AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD",
+  "architecture": [
+    "64bit",
+    "WindowsPE"
+  ],
+  "Pyton version": "3.9.13 (tags/v3.9.13:6de2ca5, May 17 2022, 16:36:42) [MSC v.1929 64 bit (AMD64)]",
+  "number of logical CPU cores": 12,
+  "IP": "192.168.50.173",
+  "disk_usage": [
+    "Curent 475.84765243530273 GB",
+    "Usage 152.8500747680664 GB",
+    "Free 322.9975776672363 GB"
+  ],
+  "regional": [
+    "LC_CTYPE: ru_RU",
+    "LANG: cp1251"
+  ],
+  "time_format": [
+    "RTZ 2 (зима)",
+    "RTZ 2 (лето)"
+  ],
+  "system": "Windows",
+  "edition": "CoreSingleLanguage",
+  "Iot": false,
+  "platform": [
+    "10",
+    "10.0.26200",
+    "SP0",
+    "Multiprocessor Free"
+  ]
+}
